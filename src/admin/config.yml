@@ -1,15 +1,20 @@
 backend:
   name: git-gateway
+  repo: techlifeadvice/blog
   branch: main 
-  media_folder: "public/assets/blog"
-  public_folder: "/assets/blog"
-  collections:
-    -name: "blog"
-    label: "Blog"
-    folder: "src/blog"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields:
+site_url: https://techlifeadvice.com
+display_url: https://techlifeadvice.com
+media_folder: "public/assets/blog"
+publish_mode: editorial_workflow
+public_folder: "/assets/blog"
+show_preview_links: true
+collections:
+    - name: "blog"
+      label: "Blog"
+      folder: "src/blog"
+      create: true
+      slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+      fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Author", name: "author", widget: "string" }
