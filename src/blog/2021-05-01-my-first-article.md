@@ -9,9 +9,9 @@ tags:
 image: /assets/blog/benjamin-sow-rd3c5yp0uwe-unsplash.jpg
 imageAlt: INTRODUCTION
 ---
-Hey, welcome to my website! In the 1% chance that you found my website, congrats!
+Hey, welcome to my website! 
 
-I actually don't have much to show here (yet!), but you can expect that I'll showly update this website over time. I'll keep updating the website whenever I have time. I finally found the time to set everything aside and dedicated some time to finally set everything up. So what exactly can you expect from this website, you may ask?
+In the 1% chance that you found my website, congrats! I actually don't have much to show here (yet!), but you can expect that I'll showly update this website over time. I'll keep updating the website whenever I have time. I finally found the time to set everything aside and dedicated some time to finally set everything up. So what exactly can you expect from this website, you may ask?
 
 Well let me start by introducing myself, Hi I'm Steve! I'm currently 26 years old and over the past few years, I've worked at 4 different tech companies ranging from startups to a middle-sized company as a full stack software engineer. I've gained a lot of knowledge through my internships, all kinds of projects and real life work experience. Of course not everything has gone smooth and I'm obviously still learning every day. Besides my main job, I had always wanted to work on a project that wasn't too exhausting, yet what would still motivate me enough to keep on doing it. I had thought of creating apps, keeping a journey for stories/lifehacks and then it struck me. Why not just combine everything together and create a website for this as well? A website (well to be more specific, a blog in this case) is perfect for this as I can pretty much just showcase everything that I do. As you may have noticed, this website will be all about the tech industry. You can expect my own stories during my software engineering career, my thoughts on the tools/products that I use and some tutorials from basic stuffs to more advanced stuffs. 
 
