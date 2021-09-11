@@ -257,8 +257,9 @@ section,
   }
 }
 
-.featured-articles {
+section .featured-articles {
   background-color: var(--clr-primary-200);
+  scroll-behavior: smooth;
 }
 
 .articles__list {
