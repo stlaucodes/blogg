@@ -1,6 +1,6 @@
 ---
 title: 7 quick and easy idea's on how to come up with a website name for your brand
-description: 7 quick and easy idea's on how to come up with a website name for your brand
+description: Lots of concrete inspiration idea's!
 author: TechLifeAdvice
 date: 2021-09-11T21:45:05.902Z
 tags:
