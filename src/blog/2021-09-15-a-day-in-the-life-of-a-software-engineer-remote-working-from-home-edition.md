@@ -1,6 +1,6 @@
 ---
 title: A day in the life of a Software Engineer (remote working from home edition)
-description: My day in the life of a Software engineer
+description: My day in the life as a Software engineer
 author: TechLifeAdvice
 date: 2021-09-15T22:06:28.746Z
 tags:
