@@ -16,6 +16,8 @@ This is the time of when I roughly wake up. I’ll brush my teeth, dress up into
 
 9.30 AM 
 
+![](/assets/blog/pexels-rfstudio-3810792.jpg)
+
 Every work day we have something called a Daily Standup. This is done remotely via Slack and here we take turns in telling each other on what we did on our previous workday, what we’ll do today. This is also an ideal moment to announce any matters to what may interfere with the overall workflow between you and your collegue’s. Some examples are: asking a question specific to a collegue, a dentist appointment, or any other kind of life matter really.\
 \
 10.00 - 12 PM
@@ -32,6 +34,8 @@ Back to some more work! Usually in-between it’s not exclusively coding. There�
 
 4-4.30 PM
 
+![](/assets/blog/pexels-burst-374592.jpg)
+
 Usually around this time I like to get myself a coffee break, just before work is about to finish. It helps me to get into the state of slowly finishing things up and taking it easy to close off the day. Unless there’s a hard deadline involvled, then you can bet that I might even work overtime. Fortunately this doesn’t happen all that often though!
 
 5.30 PM
@@ -44,9 +48,13 @@ After a heavy day of work it’s time to eat! I’m either doing some quick groc
 
 8-1 PM
 
+![](/assets/blog/pexels-fox-3829227.jpg)
+
 From here on it can be pretty much anything depending on how I feel. Either the gym, playing games, working on new content or just chilling on the sofa.
 
 1 AM: 
+
+![](/assets/blog/pexels-andrea-piacquadio-3771069.jpg)
 
 I usually stay awake up until this time. It’s not too late, not too early and I find this working the best for me where it’s a nice balance between some decent relaxing time and sleeping time. 
 
