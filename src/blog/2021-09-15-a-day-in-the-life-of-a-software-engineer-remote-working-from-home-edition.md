@@ -52,7 +52,7 @@ After a heavy day of work it’s time to eat! I’m either doing some quick groc
 
 From here on it can be pretty much anything depending on how I feel. Either the gym, playing games, working on new content or just chilling on the sofa.
 
-1 AM: 
+1 AM
 
 ![](/assets/blog/pexels-andrea-piacquadio-3771069.jpg)
 
