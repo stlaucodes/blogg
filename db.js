@@ -22,9 +22,16 @@ firebase.getAnalytics();
 //const analytics = getAnalytics(app);
 var db = firebase.database();
 
+window.onload = sendMessage();
 
 function sendMessage(){
  
+  var button = document.querySelector("form");
+
+  button.addEventListener("click", function onclick(event) {
+    event.preventDefault();
+  });
+
   var name = document.getElementById("userName").value;
   var email = document.getElementById("userEmail").value;
   var comment = document.getElementById("userComment").value;
@@ -36,12 +43,6 @@ function sendMessage(){
 }
 
 //document.getElementById("commentForm").addEventListener("submit");
-
-var button = document.querySelector("#submit");
-
-button.addEventListener("click", function onclick(event) {
-  event.preventDefault();
-});
 
 
 
