@@ -25,7 +25,7 @@ var db = firebase.database();
 window.onload = sendMessage();
 
 function sendMessage(){
- 
+ console.log("Did it reach me?");
   var button = document.querySelector("form");
 
   button.addEventListener("click", function onclick(event) {
