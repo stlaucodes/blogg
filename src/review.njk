@@ -8,7 +8,7 @@ layout: 'base.njk'
 <h1 class="section-title">Recent reviews</h1>
     <ul role="list" class="articles__list flow">
 
-    {%- for post in collections.review | reverse -%}
+    {%- for post in collections.rtags | reverse -%}
     {% include 'review-snippet.njk' %}
     
     {%- endfor %}
