@@ -390,3 +390,18 @@ section .featured-articles {
 .main-article__figure img{
   max-width: 35%;
   }
+
+  .ww{
+    display: flex;
+  
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .w li{
+    float: left;
+  }
+
+  ul li{
+    list-style-type: none;
+  }
