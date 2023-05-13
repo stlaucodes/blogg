@@ -21,9 +21,9 @@ collections:
       - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
       - { label: "Featured Image", name: "image", widget: "image"}
       - { label: "Image caption", name: "imageAlt", widget: "string", required: false}
-      - { label: "Body", name: "body", widget: "markdown"},
+      - { label: "Body", name: "body", widget: "markdown"}
 
-      - name: "review"
+    - name: "review"
       label: "Review"
       folder: "src/review"
       create: true
