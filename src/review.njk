@@ -5,20 +5,12 @@ layout: 'base.njk'
 
        
 <div class="section container">
-<h1 class="section-title">Review</h1>
-  
-    <div>
-        <div>
-            ProductName
-        </div>
-        <div>
-            Image
-        </div>
-        <div>
-            
-        </div>
-        <div>
-            
-        </div>
-    </div>
+<h1 class="section-title">Recent reviews</h1>
+    <ul role="list" class="articles__list flow">
+
+    {%- for post in collections.review | reverse -%}
+    {% include 'review-snippet.njk' %}
+    
+    {%- endfor %}
+    </ul>
 </div>
