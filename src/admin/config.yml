@@ -22,3 +22,18 @@ collections:
       - { label: "Featured Image", name: "image", widget: "image"}
       - { label: "Image caption", name: "imageAlt", widget: "string", required: false}
       - { label: "Body", name: "body", widget: "markdown"}
+
+      - name: "Review"
+      label: "Review"
+      folder: "src/review"
+      create: true
+      slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+      fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Author", name: "author", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
+      - { label: "Featured Image", name: "image", widget: "image"}
+      - { label: "Image caption", name: "imageAlt", widget: "string", required: false}
+      - { label: "Body", name: "body", widget: "markdown"}
